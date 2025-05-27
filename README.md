@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Shakeel Ahmad
+
+## 🚀 Senior Software Engineer
+
+I'm a passionate Software Engineer with expertise in building modern, scalable web applications and cloud solutions. I thrive on learning new technologies, collaborating on open source, and turning ideas into impactful products.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** PHP, Python, JavaScript, Node.js
+- **Frameworks:** Laravel, React, Vue.js, Next.js, Svelte.js
+- **Databases:** MySQL, MongoDB
+- **DevOps:** Docker, Kubernetes, Terraform
+
+---
+
+### 🌟 Featured Projects
+
+- [Jasperstaffing.com](https://jasperstaffing.com)
+- [ishopeco.com](https://ishopeco.com)
+- [CloudRep.ai](http://cloudrep.ai)
+- [clubby.me](https://clubby.me)
+- [The Commercial Coop](https://thecommercialcoop.com)
+- [Profession Pulse](https://professionpulse.com)
+
+---
+
+### 👨‍💻 About Me
+
+> Passionate Software Engineer skilled in Vue.js, React, Sveltejs, Nextjs, Node.js, Laravel, MySQL, MongoDB, Python, Docker, Terraform, and Kubernetes
+
+- 🧑‍🤝‍🧑 Always open to collaborating on open source and exciting new projects
+- 📚 Constantly exploring and learning new technologies
+
+---
+
+### 📈 My GitHub Stats
+
+![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeelbajeeda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeelbajeeda&layout=compact&theme=radical)
+
+---
+
+### 🗂️ Contribution & Collaboration Graphs
+
+#### Working (Activity) Graph
+
+[![Shakeel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shakeelbajeeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+#### Collaboration (Contributions) Graph
+
+[![Shakeel's GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=shakeelbajeeda&combine_all_yearly_contributions=true&theme=dark)](https://github.com/LordDashMe/github-contributor-stats)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeel-ahmad-416661248)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ShakeelAhmad38)
+
+---
 
 <!--
-**shakeelbajeeda/shakeelbajeeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**shakeelbajeeda/shakeelbajeeda** is a ✨special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
