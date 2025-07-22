@@ -42,14 +42,6 @@ I'm a passionate Software Engineer with expertise in building modern, scalable w
 
 ---
 
-### 🗂️ Contribution & Collaboration Graphs
-
-#### Working (Activity) Graph
-
-[![Shakeel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shakeelbajeeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeel-ahmad-416661248)
