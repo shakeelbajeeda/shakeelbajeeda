@@ -48,10 +48,6 @@ I'm a passionate Software Engineer with expertise in building modern, scalable w
 
 [![Shakeel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shakeelbajeeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### Collaboration (Contributions) Graph
-
-[![Shakeel's GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=shakeelbajeeda&combine_all_yearly_contributions=true&theme=dark)](https://github.com/LordDashMe/github-contributor-stats)
-
 ---
 
 ### 🌐 Connect With Me
